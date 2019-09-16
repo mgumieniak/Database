@@ -22,7 +22,4 @@ dependencies {
 	compileOnly 'org.projectlombok:lombok:1.18.8'
 	annotationProcessor 'org.projectlombok:lombok:1.18.8'
 
-	compile group: 'org.apache.camel', name: 'camel-mongodb-gridfs', version: '3.0.0-M4'
-
-
 }
